@@ -1,0 +1,2 @@
+# premium-mokume-gane-001-mokume-gane-layer-planner
+Tired of losing track of your mokume gane layers mid-project? The Mokume Gane Layer Planner keeps every metal sheet, thickness, and pattern sequence organized in one place—so you never mix up your billet again.  This Notion template solves the chaos of managing multiple metal layers by offering a structured workspace to log each layer's material, g
